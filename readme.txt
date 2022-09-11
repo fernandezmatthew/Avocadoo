@@ -1,0 +1,1 @@
+Should be able to compile main.cpp to build the application in its functional state.
